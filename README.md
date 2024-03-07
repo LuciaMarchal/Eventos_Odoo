@@ -111,10 +111,6 @@ Todos los modelos anteriormente mencionados tienen su vista formulario y lista, 
         ![Untitled](./Resources/Untitled%203.png)
         
         ![Untitled](./Resources/Untitled%204.png)
-<<<<<<< HEAD
-        
-=======
->>>>>>> 20f77e7d7155d4b7fe4c8f329c9a572ef179782e
 
 - **Informe**:
     - **Form / Report**: Contiene un notebook para ver los asistentes del evento y además la posibilidad de poder imprimirlo como informe.
